@@ -1,1 +1,1 @@
-https://github.com/shadarw/resim-galatisi.git adresine giderek kolayca kontrol edebilirsin.
+file:///C:/Users/pc/Desktop/resim-galatisi-main/index.html adresine giderek kolayca kontrol edebilirsin.
